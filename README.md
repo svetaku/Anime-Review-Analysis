@@ -11,3 +11,5 @@ Data Cleaning and Preprocessing: Before analysis, the scraped data undergoes cle
 
 3. *data_analysis.ipynb* \
 Visual Analysis: The cleaned data is then utilized to generate insightful visualizations using Seaborn. These visualizations provide an overview of distribution of reviews per show, reviews lengths, and ratings.
+
+*I collected this data in order to perform aspect-based sentiment analysis on it and ideally build a keyword recommender system. Will be posting updates*
