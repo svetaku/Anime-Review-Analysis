@@ -1,6 +1,6 @@
 # Anime Reviews Scraper, Visual Analysis, and Rating Prediction
 
-This project aims to scrape user reviews and ratings from [MyAnimeList](https://myanimelist.net) and perform visual analysis on the scraped data. MyAnimeList is a popular platform for anime fans to rate and review their favorite shows.
+This project aims to scrape user reviews and ratings from [MyAnimeList](https://myanimelist.net), perform visual analysis and rating prediction using ML algorithms on the scraped data. MyAnimeList is a popular platform for anime fans to rate and review their favorite shows.
 
 ## Features
 1. *scraping_reviews.ipynb* \
