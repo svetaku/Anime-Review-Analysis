@@ -14,3 +14,13 @@ Visual Analysis: The cleaned data is then utilized to generate insightful visual
 
 4. *rating_prediction_with_ML.ipynb* \
 Predicting anime ratings based on their reviews: Applying machine learning algorithms to the vector representations of the reviews to perform a regression task and predict the ratings (used SGDRegressor with RandomizedSearchCV).
+
+## Usage
+- Clone the repository
+  ```sh
+  git clone https://github.com/svetaku/Review-Analysis-and-Rating-Prediction.git
+  cd Review-Analysis-and-Rating-Prediction
+- Install dependencies
+  ```sh
+  pip install -r requirements.txt
+- Run the notebooks
